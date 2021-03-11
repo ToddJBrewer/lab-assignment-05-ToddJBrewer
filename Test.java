@@ -14,6 +14,7 @@ public class Test
         //test constructor
         MyArrayList<String> a1 = new MyArrayList<String>();
 
+
         //testing add
         a1.add("1");
         a1.add("2");
